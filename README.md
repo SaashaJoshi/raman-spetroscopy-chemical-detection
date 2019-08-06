@@ -1,1 +1,1 @@
-# raman-spectroscopy-chemical-detection using ML and DL techniques
+# Raman Spectrum Recognition using Deep Convolutional Neural Networks
